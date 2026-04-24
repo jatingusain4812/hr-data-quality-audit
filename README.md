@@ -1,4 +1,5 @@
 HR Data Quality Audit & Risk Control System
+
 Python | MySQL | SQL | Advanced Excel
 
 Built an automated audit system to detect data quality issues in HR records (500+ employees)
